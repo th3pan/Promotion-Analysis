@@ -1,0 +1,6 @@
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>MONTH</h1>
+     <h1>31st Promotion Analysis</h1>
+  </div>
+</div>

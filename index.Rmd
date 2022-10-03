@@ -1,0 +1,26 @@
+---
+title: "Home Page"
+---
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+> Home 
+
+Hello, everyone! This is a dummy website with purpose of learning how to develop a website via _**GitHub Pages**_ and _**Rmarkdown**_.<br/>
+
+> Internal Links
+
+This section is to direct you to the tabs via internal links<br/>
+
+> [Primary link](https://kurokawa37.github.io/DummyWebsite.io/primary.html)
+
+* [**A**](file:///C:/Users/rajveerjaswinder/Documents/GitHub/DummySite/docs/primary.html#Section_A)
+
+
+* [**B**](file:///C:/Users/rajveerjaswinder/Documents/GitHub/DummySite/docs/primary.html#Section_B)
+
+* [**C**](file:///C:/Users/rajveerjaswinder/Documents/GitHub/DummySite/docs/primary.html#Section_C)
+
+> [About](file:///C:/Users/rajveerjaswinder/Documents/GitHub/DummySite/docs/DummyWebsite.io/about.html)
+
+

@@ -1,0 +1,25 @@
+---
+title: "Primary Section"
+---
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+> ### <a class = "anchor" id="Main">Main</a>
+
+The Primary section of this website.<br/>
+
+> ### <a class = "anchor" id="Section_A">Section A</a>
+
+This subsection is used to test for internal links to **this** and its given header name.<br/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+> ### <a class = "anchor" id="Section_B">Section B</a>
+
+This subsection is used to test for internal links to **this** and its given header name.<br/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+> ### <a class = "anchor" id="Section_C">Section C</a>
+
+This subsection is used to test for internal links to **this** and its given header name.<br/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+

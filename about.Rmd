@@ -1,0 +1,14 @@
+---
+title: "About This Website"
+---
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+More about this website.
+
+```{r}
+x=c(1,2,3,4,5)
+mean(x)
+file.create(".nojekyll")
+```
+

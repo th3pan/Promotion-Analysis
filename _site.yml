@@ -1,0 +1,38 @@
+name: "DummyWebsite.io"
+
+navbar:
+  title: "Dummy Website"
+  
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Sections"
+      menu:
+      - text: "Primary"
+      - text: "Main"
+        href: primary.html#Main
+      - text: "A"
+        href: primary.html#Section_A
+      - text: "B"
+        href: primary.html#Section_B
+      - text: "C"
+        href: primary.html#Section_C
+      - text: "----------"
+      - text: "Secondary"
+      - text: "Main"
+        href: secondary.html#Main
+      - text: "A"
+        href: secondary.html#Section_A
+      - text: "B"
+        href: secondary.html#Section_B
+      - text: "C"
+        href: secondary.html#Section_C
+  right:
+     - text: "About"
+       href: about.html
+       
+output:
+    html_document:
+      include:
+        in_header: Header.Rmd
+        css: styles.css
